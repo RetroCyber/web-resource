@@ -1,4 +1,99 @@
+/* 简体中文 */
+
 @font-face {
     font-family: HarmonyOS_Sans_SC_Black;
-    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/);
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Black.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Bold;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Light;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Medium;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Regular;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Thin;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_SC/HarmonyOS_Sans_SC_Thin.woff2) format('woff2');
+}
+
+/* 繁体中文 */
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Black;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Black.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Black.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Bold;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Bold.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Light;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Light.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Light.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Medium;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Medium.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Regular;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Regular.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: HarmonyOS_Sans_TC_Thin;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Thin.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/RetroCyber/web-resource/Font/HarmonyOS%20Sans/HarmonyOS_Sans_TC/HarmonyOS_Sans_TC_Thin.woff2) format('woff2');
 }
